@@ -7,7 +7,7 @@ A music player which is ad-free specially made for music lovers like myself who 
 
 ## Click Here 
 
-
+Link - https://music-player-ten-mauve.vercel.app/#english
 
 
 ## Tech Stack
